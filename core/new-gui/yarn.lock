@@ -1693,10 +1693,10 @@
     debug "^3.1.0"
     lodash.once "^4.1.1"
 
-"@danmarshall/deckgl-typings@4.9.15":
-  version "4.9.15"
-  resolved "https://registry.yarnpkg.com/@danmarshall/deckgl-typings/-/deckgl-typings-4.9.15.tgz#b1da73d646ea78d65b5c96e5c3f2eeed4a39320d"
-  integrity sha512-NNAv0fqH52JKmROBTdQcdegVSH026PoNOZfx5rb2xXZdpZf7MDqdx+dU3/MSoHQXooTS/FOwuEJ5eEYW+1IzFA==
+"@danmarshall/deckgl-typings@4.9.28":
+  version "4.9.28"
+  resolved "https://registry.yarnpkg.com/@danmarshall/deckgl-typings/-/deckgl-typings-4.9.28.tgz#742137ca388960bb8f293daf387c80c970a3c856"
+  integrity sha512-cvp0sPunaOgzI/6Kb9zQjNPOegFrli8t/mWLESTDarZT1xBGe9FwLQ9wQT0XFcVagdlhe2NFBx0oeRy0L4f1GQ==
   dependencies:
     "@types/hammerjs" "^2.0.36"
     "@types/react" "*"
